@@ -1,0 +1,12 @@
+COLON=1
+NAME=2
+ACTION=3
+SHAPE=4
+LPAREN=5
+RPAREN=6
+COLOR=7
+WS=8
+':'=1
+'create'=3
+'('=5
+')'=6
